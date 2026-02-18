@@ -1,1 +1,1 @@
-CLAVE–VALOR | Estructura más rápida para acceso directo por ID, minimizando la latencia al evitar esquemas complejos.
+DOCUMENTAL | Ya que la estructura puede variar regularmente.
